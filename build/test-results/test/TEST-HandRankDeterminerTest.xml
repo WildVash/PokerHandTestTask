@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HandRankDeterminerTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-08-11T11:11:08" hostname="WILD_PC" time="0.124">
+  <properties/>
+  <testcase name="[1] AH TH KH JH QH, ROYAL_FLUSH" classname="HandRankDeterminerTest" time="0.074"/>
+  <testcase name="[2] 8H TH 9H JH QH, STRAIGHT_FLUSH" classname="HandRankDeterminerTest" time="0.001"/>
+  <testcase name="[3] QD AS QH QS QC, FOUR_OF_A_KIND" classname="HandRankDeterminerTest" time="0.004"/>
+  <testcase name="[4] 2S AD 2C AD AH, FULL_HOUSE" classname="HandRankDeterminerTest" time="0.002"/>
+  <testcase name="[5] 2C AC 4C KC JC, FLUSH" classname="HandRankDeterminerTest" time="0.004"/>
+  <testcase name="[6] 2C 5S 3C 6H 4D, STRAIGHT" classname="HandRankDeterminerTest" time="0.003"/>
+  <testcase name="[7] AC AS 3C AH 2D, THREE_OF_A_KIND" classname="HandRankDeterminerTest" time="0.002"/>
+  <testcase name="[8] 5C AS 3C AH 5D, TWO_PAIRS" classname="HandRankDeterminerTest" time="0.003"/>
+  <testcase name="[9] 5C AS 3C AH 2D, PAIR" classname="HandRankDeterminerTest" time="0.002"/>
+  <testcase name="[10] 5C 7S 3C AH 2D, HIGH_CARD" classname="HandRankDeterminerTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
